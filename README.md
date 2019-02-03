@@ -10,5 +10,9 @@ between professional or academic life.
 
 -All you need to do is draw your layout and mention the specifications of the application and the tool will smartly develop the front end design and layout of the code in a javascript file that can be directly be used or it will generate the code that needs to be written to develop the file.
 
-
+-Technology stack:
+1)Python 3.5
+2)Javascript 
+3)Pytessarect
+4)Android Studio
  
