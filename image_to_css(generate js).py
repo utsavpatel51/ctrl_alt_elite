@@ -39,6 +39,7 @@ for key,value in div.items():
         +'var x = document.createElement("INPUT");' \
         +'x.setAttribute("type", "text");' \
         +'x.setAttribute("style", "margin:'+value[1]+'");' \
+        +'x.setAttribute("style", "background-color: red;")' \
         +'document.body.appendChild(x);' \
         +'document.write("<br>");'
     match = similarity(value[-1],'Button')
